@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 
 namespace: community
-name: general
+name: custom
 version: 9.5.2
 readme: README.md
 authors:
